@@ -1,4 +1,4 @@
 # Unity-move
 Move 
 
-#left and right movement
+Left and right movement
